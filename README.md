@@ -5,3 +5,5 @@
 
 ## Example: 
 `python hw1.py -i input.txt -s blosum62.txt`
+
+See Example input and output in the attached files.
