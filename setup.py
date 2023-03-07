@@ -12,3 +12,4 @@ setup(
     install_requires=[
           'argparse',
       ],
+)
